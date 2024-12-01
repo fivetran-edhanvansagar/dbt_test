@@ -1,0 +1,6 @@
+version: 2
+    
+sources:
+  - name: google_cloud_mysql_test 
+    tables:
+      - name: JUST_A_TABLE
